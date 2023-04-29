@@ -1,0 +1,188 @@
+IR:    var15 2, 4
+IR:    ext
+IR:    mov 2, 3
+IR:    var15 R1, R2
+IR:    mov R1, 2
+R1:    0 0 0 0 0 0 0 0 0 0 0 0
+R2:    0 0 0 0 0 0 0 0 0 0 0 0
+R3:    0 0 0 0 0 0 0 0 0 0 0 0
+RS:    0
+PC:    1
+TC:    1
+
+IR:    mov R1,2
+R1:    0 0 0 0 0 0 0 0 0 0 1 0
+R2:    0 0 0 0 0 0 0 0 0 0 0 0
+R3:    0 0 0 0 0 0 0 0 0 0 0 0
+RS:    0
+PC:    1
+TC:    2
+
+IR:    ext
+IR:    2
+IR:    32
+IR:    
+IR:    4533rfe
+IR:    
+IR:    vr
+IR:    r2fEW
+IR:    egrenjeiufweioew
+IR:    /
+IR:    
+IR:    
+IR:    froipkdekre
+IR:    \
+IR:    `
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    
+IR:    mov R1, R2

@@ -1,0 +1,4 @@
+mov R2 -3
+mov R3 R2
+mov R4 100500500100
+inv R2 R3 1

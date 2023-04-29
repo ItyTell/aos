@@ -1,0 +1,2 @@
+docker build . -t cpp_laba:1
+docker run --rm -it cpp_laba:1
